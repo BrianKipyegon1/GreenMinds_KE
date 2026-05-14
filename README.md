@@ -62,12 +62,22 @@ As university students and industry professionals, we visit secondary schools to
 <p align="center">
   <img src="images/career-talks.jpg" width="280" alt="Career Talk 1">
   <img src="images/career-talks1.jpg" width="280" alt="Career Talk 2">
-  <img src="images/career-talks3.jpg" width="280" alt="Career Talk 3">
+  <img src="images/career-talks2.jpg" width="280" alt="Career Talk 3">
 </p>
 <p align="center">
-  <img src="images/career-talks4.jpg" width="280" alt="Career Talk 4">
-  <img src="images/career-talks5.jpg" width="280" alt="Career Talk 5">
+  <img src="images/career-talks3.jpg" width="280" alt="Career Talk 4">
+  <img src="images/career-talks4.jpg" width="280" alt="Career Talk 5">
+  <img src="images/career-talks5.jpg" width="280" alt="Career Talk 6">
 </p>
+<p align="center">
+  <img src="images/career-talks6.jpg" width="280" alt="Career Talk 7">
+  <img src="images/career-talks7.jpg" width="280" alt="Career Talk 8">
+  <img src="images/career-talks8.jpg" width="280" alt="Career Talk 9">
+</p>
+<p align="center">
+  <img src="images/career-talks9.jpg" width="280" alt="Career Talk 10 (Future Drive)">
+</p>
+
 
 ---
 
