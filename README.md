@@ -22,10 +22,14 @@ We conduct regional tree-planting campaigns to create green spaces and fight cli
 </p>
 
 ### 📱 Government Verified Jazamiti App Tracking
+We maintain absolute operational transparency by logging our seedling growth targets directly into the national monitoring grid.
+
 <p align="center">
-  <img src="images/jazamiti-dashboard.jpg" width="380" title="GreenMinds National Dashboard Profile" alt="Jazamiti Dashboard">
-  <img src="images/jazamiti-records.jpg" width="380" title="Verified Seedling Logs" alt="Jazamiti Records">
+  <img src="images/jazamiti-dashboard.jpg" width="240" alt="Jazamiti Dashboard">
+  <img src="images/jazamiti-records.jpg" width="240" alt="Jazamiti Records">
+  <img src="images/jazamiti-logs.jpg" width="240" alt="Jazamiti Activity Logs">
 </p>
+
 
 ---
 
