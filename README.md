@@ -7,11 +7,28 @@ GreenMinds KE is a youth-led community organization based in Kenya. We integrate
 ## 🌳 1. Environmental Conservation & Tree Planting
 We conduct regional tree-planting campaigns to create green spaces and fight climate change locally.
 * **Our Goal:** Promoting biodiversity and environmental responsibility among youth.
+* **National Alignment:** All our conservation activities are fully documented and logged into Kenya's official **Jazamiti Application**. We actively track our data to support the presidential directive of planting **15 Billion Trees by 2032**.
 
+### 📸 Project Gallery: Tree Planting Action
 <p align="center">
-  <img src="images/tree-planting.jpg" width="280" alt="Tree Planting 1">
-  <img src="images/tree-planting1.jpg" width="280" alt="Tree Planting 2">
+  <img src="images/tree-planting1.jpg" width="280" alt="Tree Planting 1">
+  <img src="images/tree-planting2.jpg" width="280" alt="Tree Planting 2">
+  <img src="images/tree-planting3.jpg" width="280" alt="Tree Planting 3">
 </p>
+<p align="center">
+  <img src="images/tree-planting4.jpg" width="280" alt="Tree Planting 4">
+  <img src="images/tree-planting5.jpg" width="280" alt="Tree Planting 5">
+  <img src="images/tree-planting6.jpg" width="280" alt="Tree Planting 6">
+</p>
+
+### 📱 Government Verified Jazamiti App Tracking
+<p align="center">
+  <img src="images/jazamiti-dashboard.jpg" width="380" title="GreenMinds National Dashboard Profile" alt="Jazamiti Dashboard">
+  <img src="images/jazamiti-records.jpg" width="380" title="Verified Seedling Logs" alt="Jazamiti Records">
+</p>
+
+---
+
 
 ---
 
